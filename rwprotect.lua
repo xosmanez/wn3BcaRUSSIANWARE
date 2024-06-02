@@ -2,7 +2,7 @@ getgenv().LuXyAr = true
 --[[
 Obfuscated by LuXyAr v4
 
-By nmodel and xosmane
+By leon and xosmane
 
 
   _____            ____  ____            _              
